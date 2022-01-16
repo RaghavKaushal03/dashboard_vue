@@ -8,6 +8,7 @@
 			<a-row type="flex">
 				<a-col :span="24" :md="6">
 					<div class="ant-page-header-heading">
+						<a-avatar size="large" icon="user" />
 						<h5>Good Morning! Raghav</h5>
 					</div>
 					<p>Here are your stats for Today</p>
